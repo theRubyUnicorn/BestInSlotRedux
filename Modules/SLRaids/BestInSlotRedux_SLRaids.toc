@@ -1,0 +1,8 @@
+## Interface: 80300
+## Title: Best In Slot Redux [|cffff975bShadowlands Raids|r]
+## Notes: Shadowlands Raid Module for BestInSlotRedux
+## Author: Rubychan @ Kazzak-EU
+## Version: @project-version@
+## Dependencies: BestInSlotRedux
+
+CastleNathria.lua
